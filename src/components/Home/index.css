@@ -1,0 +1,34 @@
+.main-bg-home-dark {
+  background-color: #212121;
+  min-height: 100vh;
+}
+.main-bg-home-light {
+  background-color: #ffffff;
+  min-height: 100vh;
+}
+
+.dark-dash-pop-div {
+  background-color: #212121;
+  min-height: 30vh;
+  color: #ffffff;
+  padding-top: 20px;
+  font-family: Roboto;
+  font-weight: bold;
+  display: flex;
+}
+.light-dash-pop-div {
+  background-color: #ffffff;
+  height: 30vh;
+  color: #616e7c;
+  padding-top: 20px;
+  font-family: Roboto;
+  display: flex;
+}
+.dashboard-div {
+  display: flex;
+  flex-direction: column;
+}
+.right-side-popup-all-videos-div {
+  overflow: auto;
+  height: 100vh;
+}

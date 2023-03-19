@@ -1,0 +1,75 @@
+.videos-list-items {
+  list-style-type: none;
+  display: flex;
+  flex-direction: column;
+  padding: 20px;
+  width: 300px;
+  margin-right: 20px;
+}
+.thumbnailUrl {
+  width: 300px;
+}
+.profile-title-div {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-bottom: 0px;
+}
+.profileImageUrl {
+  height: 30px;
+  margin-right: 20px;
+}
+.viewcount-publishedAt-div {
+  display: flex;
+  margin-top: 0px;
+  margin-left: 50px;
+}
+.link {
+  text-decoration: none;
+  color: black;
+}
+.name-light {
+  margin-left: 50px;
+  margin-top: 0px;
+  margin-bottom: 0px;
+  color: #7e858e;
+  margin-left: 60px;
+}
+.name-dark {
+  margin-left: 50px;
+  margin-top: 0px;
+  margin-bottom: 0px;
+  color: #475569;
+  font-weight: 500;
+  margin-left: 60px;
+}
+
+.title-light {
+  color: #212121;
+  font-family: roboto;
+  font-weight: 500;
+}
+.title-dark {
+  color: #cccccc;
+  font-family: roboto;
+  font-weight: 500;
+}
+.viewcounts-light {
+  color: #7e858e;
+  margin-left: 10px;
+}
+.published-light {
+  color: #7e858e;
+  margin-left: 10px;
+}
+
+.viewcounts-dark {
+  color: #475569;
+  margin-left: 10px;
+  font-weight: 500;
+}
+.published-dark {
+  color: #475569;
+  margin-left: 10px;
+  font-weight: 500;
+}

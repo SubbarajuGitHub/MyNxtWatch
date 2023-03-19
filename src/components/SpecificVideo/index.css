@@ -1,0 +1,87 @@
+.specific-video-dark {
+  background-color: #212121;
+  min-height: 100vh;
+  display: flex;
+}
+.specific-video-light {
+  background-color: #ffffff;
+  min-height: 100vh;
+  display: flex;
+}
+
+.dark-video-screen {
+  background-color: black;
+  width: 45vw;
+  padding: 20px;
+}
+.light-video-screen {
+  background-color: transparent;
+  width: 45vw;
+  padding: 20px;
+}
+.video-player-description-dark {
+  color: #7e858e;
+  font-family: roboto;
+}
+.video-specification-main-div {
+  display: flex;
+  justify-content: space-between;
+}
+
+.dark-icon {
+  color: white;
+  font-size: 25px;
+}
+.light-icon {
+  color: black;
+}
+
+.icon-div {
+  display: flex;
+  align-items: center;
+  justify-content: space-evenly;
+  margin-right: 20px;
+}
+.main-icon-div {
+  display: flex;
+}
+.first-div {
+  display: flex;
+}
+.dark-subscribe-count {
+  color: white;
+}
+.dark-published {
+  color: white;
+  margin-left: 30px;
+}
+.like-dislike-dark {
+  color: white;
+  font-family: roboto;
+  font-size: 14px;
+  margin-left: 5px;
+  background-color: transparent;
+  border-color: transparent;
+}
+.light-subscribe-count {
+  color: black;
+}
+.light-published {
+  color: black;
+  margin-left: 30px;
+}
+.like-dislike-light {
+  color: black;
+  font-family: roboto;
+  font-size: 14px;
+  margin-left: 5px;
+  background-color: transparent;
+  border-color: transparent;
+}
+.profileImageUrl {
+  height: 40px;
+}
+.channel-div {
+  display: flex;
+  align-items: center;
+}

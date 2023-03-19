@@ -1,0 +1,22 @@
+.videos-unordered-list {
+  display: flex;
+  flex-wrap: wrap;
+}
+.failure-home-image {
+  height: 200px;
+}
+.home-failure-mode {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  margin-top: 50px;
+}
+.retry-button {
+  background-color: #4f46e5;
+  padding: 10px;
+  border-color: transparent;
+  color: white;
+  font-family: roboto;
+}

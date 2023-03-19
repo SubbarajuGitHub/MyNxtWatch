@@ -1,0 +1,29 @@
+.thumbnailUrl-gaming {
+  height: 300px;
+  width: 200px;
+}
+.gaming-main-div {
+  width: 250px;
+  margin: 20px;
+  text-align: flex-start;
+}
+.gaming-title-dark {
+  color: #f1f1f1;
+  font-family: roboto;
+  font-weight: 500;
+}
+.gaming-count-dark {
+  color: #7e858e;
+  font-family: roboto;
+  font-weight: 500;
+}
+.gaming-title-light {
+  color: #1e293b;
+  font-family: roboto;
+  font-weight: 700;
+}
+.gaming-count-light {
+  color: #7e858e;
+  font-family: roboto;
+  font-weight: 500;
+}

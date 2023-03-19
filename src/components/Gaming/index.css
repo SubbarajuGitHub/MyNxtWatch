@@ -1,0 +1,21 @@
+.gaming-dark-main-bg {
+  background-color: #212121;
+  min-height: 100vh;
+}
+.gaming-dark-main-white {
+  min-height: 100vh;
+}
+.gaming-video-ul-dark {
+  display: flex;
+  background-color: #0f0f0f;
+  margin-top: 0px;
+  width: 60vw;
+  flex-wrap: wrap;
+}
+.gaming-video-ul-light {
+  display: flex;
+  background-color: #f8fafc;
+  margin-top: 0px;
+  width: 60vw;
+  flex-wrap: wrap;
+}

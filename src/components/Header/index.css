@@ -1,0 +1,51 @@
+.profile {
+  height: 30px;
+}
+.logo {
+  font-size: 30px;
+}
+.sun {
+  color: white;
+}
+.black-header-bg {
+  background-color: #212121;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 20px;
+}
+.navbar-right-div {
+  display: flex;
+  justify-content: space-evenly;
+  width: 300px;
+  align-items: center;
+}
+.nxtWatchLogoNavbar {
+  height: 30px;
+  align-items: center;
+}
+.white-header-bg {
+  background-color: #ffffff;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 20px;
+}
+.dark-mode-logout {
+  background-color: transparent;
+  border: solid 2px white;
+  padding: 5px;
+  color: white;
+  font-family: roboto;
+  padding-left: 15px;
+  padding-right: 15px;
+}
+.light-mode-logout {
+  background-color: transparent;
+  border: solid 2px #3b82f6;
+  padding: 5px;
+  color: #3b82f6;
+  font-family: roboto;
+  padding-left: 15px;
+  padding-right: 15px;
+}

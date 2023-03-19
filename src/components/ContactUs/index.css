@@ -1,0 +1,36 @@
+.contact-us-logos {
+  height: 34px;
+  margin-right: 10px;
+}
+.contact-us-dark-bg {
+  margin-left: 20px;
+  width: 15vw;
+  margin-top: 35vh;
+}
+.contact-us-light-bg {
+  margin-left: 20px;
+  width: 15vw;
+  margin-top: 35vh;
+}
+.contact-us-dark-heading {
+  color: #ffffff;
+  font-family: roboto;
+  font-size: 20px;
+}
+.contact-us-dark-description {
+  color: #ffffff;
+  font-family: roboto;
+  font-size: 16px;
+  font-weight: bold;
+}
+.contact-us-light-heading {
+  color: #00306e;
+  font-family: roboto;
+  font-size: 20px;
+}
+.contact-us-light-description {
+  color: #00306e;
+  font-family: roboto;
+  font-size: 16px;
+  font-weight: bold;
+}

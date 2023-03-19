@@ -1,0 +1,52 @@
+.dashboard-icons-dark {
+  font-size: 20px;
+  margin-right: 15px;
+  color: #909090;
+}
+.dashboard-icons-light {
+  font-size: 20px;
+  margin-right: 15px;
+}
+.dashboardHomeBg {
+  display: flex;
+  align-items: center;
+  width: 20vw;
+  margin-left: 20px;
+}
+.dashboard-light-options {
+  text-decoration: none;
+  color: #606060;
+  font-family: roboto;
+  font-weight: 500;
+}
+.dashboard-dark-options {
+  text-decoration: none;
+  color: #ebebeb;
+  font-family: roboto;
+  font-weight: 500;
+}
+.red-icon {
+  font-size: 20px;
+  margin-right: 15px;
+  color: #909090;
+}
+.dashboard-button-light {
+  background-color: transparent;
+  border: none;
+  margin-bottom: 15px;
+  margin-top: 15px;
+  font-family: roboto;
+  color: #606060;
+  font-weight: bold;
+  font-size: 16px;
+}
+.dashboard-button-dark {
+  color: #ebebeb;
+  background-color: transparent;
+  border: none;
+  margin-bottom: 15px;
+  margin-top: 15px;
+  font-family: roboto;
+  font-weight: bold;
+  font-size: 16px;
+}
